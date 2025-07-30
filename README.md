@@ -100,7 +100,11 @@ Client to Server
 
 ## Using the Test Script
 
-A separate test script is available in the test directory that can stream audio files to your server.
+A separate test script is available in the [here](https://drive.google.com/file/d/1-RakXWeCRt963uRXJ3NOpcQgDyhS49lE/view) that can stream audio files to your server.
+
+## Test Result
+
+Test result can be found in the directory `test_result`
 
 # Part 2 - System Design Challenge
 
